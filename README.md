@@ -71,3 +71,9 @@ Hayvan alım-satım süreçlerini dijital ortama taşıyarak alıcı ve satıcı
 ## ⚠️ Not
 
 Bu repo portföy (showcase) amacıyla oluşturulmuştur. Kaynak kodlar paylaşılmamaktadır.
+
+
+## Geliştirici
+Emin Kaya
+
+GitHub: @EminKY
