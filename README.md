@@ -55,7 +55,14 @@ Platform, hayvan yetiştiricileri ve alıcıları tek bir noktada buluşturmayı
 
 ### Ana Sayfa
 
-![Ana Sayfa](screenshots/anasayfa.png)
+![Ana Sayfa](screenshots/ana-sayfa.png)
+![Ana Sayfa](screenshots/phone-anasayfa.png)
+### Mesaj Bölümü
+
+![Ana Sayfa](screenshots/message.png)
+### Profil Bölümü
+
+![Ana Sayfa](screenshots/profil.png)
 
 ## 🎯 Amaç
 
